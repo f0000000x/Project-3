@@ -1,1 +1,2 @@
 # Project-3
+Due to the economic advantages and environmental considerations, nuclear power has become the most potential and most likely to gradually replace the traditional energy generation mode in recent years. But because of upfront costs and international regulations, not every country can afford nuclear power. So, this time I will study ten countries with nuclear power plants and further illustrate he state of nuclear power in electricity.
